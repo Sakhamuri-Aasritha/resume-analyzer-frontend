@@ -15,7 +15,7 @@ This is the React frontend for the Resume Analyzer application. It allows users 
 
 ## 📸 Screenshot
 
-![Screenshot]()
+<img src="https://github.com/Sakhamuri-Aasritha/ScreenShot/blob/main/Screenshot%20(5).png" alt="Frontend ScreenShot">
 
 ## 🛠️ Tech Stack
 
