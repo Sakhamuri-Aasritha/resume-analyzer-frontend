@@ -1,0 +1,67 @@
+.App {
+  max-width: 600px;
+  margin: 3rem auto;
+  padding: 2rem;
+  background: #ffffff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #333;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+label {
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #555;
+}
+
+input[type="file"] {
+  width: 100%;
+}
+
+button {
+  padding: 0.6rem 1.2rem;
+  background-color: #007bff;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+.result {
+  background-color: #f9f9f9;
+  padding: 1.5rem;
+  border-radius: 12px;
+  text-align: left;
+  font-size: 1rem;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.05);
+}
+
+.result h2 {
+  color: #007bff;
+  margin-bottom: 1rem;
+}
+
+.result p {
+  margin: 0.5rem 0;
+}
