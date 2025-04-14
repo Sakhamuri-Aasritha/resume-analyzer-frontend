@@ -1,0 +1,6 @@
+{
+  "matchScore" : 90.0,
+  "matchedSkills" : [ "Java", "Spring Boot", "AWS", "SQL", "MySQL", "JavaScript", "HTML", "CSS", "React" ],
+  "jdSkills" : [ "Java", "Spring Boot", "AWS", "SQL", "MySQL", "PostgreSQL", "JavaScript", "HTML", "CSS", "React" ],
+  "resumeSkills" : [ "Java", "Spring Boot", "Python", "AWS", "Azure", "Docker", "Kubernetes", "SQL", "MySQL", "JavaScript", "HTML", "CSS", "React", "Angular" ]
+}
